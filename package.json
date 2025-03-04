@@ -1,0 +1,11 @@
+{
+  "name": "ze-atlas-pack-demo",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "pnpm -r start"
+  },
+  "private": true,
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
